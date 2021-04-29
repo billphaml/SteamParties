@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Mass Document Storage\School HW-Projects\CSS 436\436-Program-5\SteamParties\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\Mass Document Storage\School HW-Projects\CSS 436\436-Program-5\SteamParties\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Mass Document Storage\School HW-Projects\CSS 436\436-Program-5\SteamParties\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
